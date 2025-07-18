@@ -1,4 +1,4 @@
-### To-do-List
+# To-do-List
  A simple, responsive **To-Do List** web app built with **HTML**, **CSS**, and **JavaScript**. It allows users to add, edit, delete, prioritize, and mark tasks as completed. Tasks are saved using **localStorage**, so they persist even after refreshing the page.
 
 ## Features
